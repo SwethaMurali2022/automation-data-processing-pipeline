@@ -1,0 +1,4 @@
+OrderID,Product,Price,Quantity,Total Sales
+101,Laptop,50000.0,2,100000.0
+102,Mouse,500.0,5,2500.0
+103,Chair,0.0,3,0.0
